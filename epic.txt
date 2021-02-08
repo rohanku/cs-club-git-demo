@@ -6,3 +6,4 @@ new mabranch merge conflicter
 new line
 
 my collaboration line
+my friends line
