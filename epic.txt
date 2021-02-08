@@ -3,3 +3,4 @@ new epic line
 newmabranchline
 new master merge conflicter
 new mabranch merge conflicter
+new line
