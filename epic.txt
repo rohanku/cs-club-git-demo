@@ -2,3 +2,4 @@ very epic file
 new epic line
 newmabranchline
 new master merge conflicter
+new mabranch merge conflicter
